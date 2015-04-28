@@ -1,0 +1,17 @@
+{
+  "name": "gauge.js",
+  "version": "1.0.0",
+  "authors": [
+    "Mikhail Baranov <mikhail.baranov@gmail.com>"
+  ],
+  "description": "Gauge component",
+  "main": "dist/gauge.js",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
